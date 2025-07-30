@@ -107,10 +107,7 @@ Arrays excel in random access scenarios (O(1) indexing)
 Stacks/Queues are optimal for specific access patterns (LIFO/FIFO)
 Linked Lists offer memory flexibility but sacrifice random access performance
 
-Performance Analysis
-Time Complexity Summary
-Algorithm/OperationBest CaseAverage CaseWorst CaseRandomized QuickselectO(n)O(n)O(n²)Deterministic SelectionO(n)O(n)O(n)Array AccessO(1)O(1)O(1)Array Insert/DeleteO(1)O(n)O(n)Stack Push/PopO(1)O(1)O(1)Queue Enqueue/DequeueO(1)O(1)O(1)Linked List InsertO(1)O(1)O(1)Linked List SearchO(1)O(n)O(n)
-Requirements
+
 
 Python 3.6 or higher
 No external dependencies required (uses only standard library)
