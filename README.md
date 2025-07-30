@@ -6,21 +6,8 @@ This repository contains implementations and analysis of selection algorithms an
 Selection Algorithms: Implementation and comparison of randomized and deterministic algorithms for finding the k<sup>th</sup> smallest element
 Elementary Data Structures: From-scratch implementation of arrays, stacks, queues, and linked lists
 
-Repository Structure
-├── Part1_Selection_Algorithms/
-│   ├── randomized_selection.py      # Randomized Quickselect implementation
-│   ├── deterministic_selection.py   # Median of Medians implementation
-│   └── performance_test.py          # Benchmarking and comparison script
-├── Part2_Data_Structures/
-│   ├── array.py                     # Array implementation with basic operations
-│   ├── stack.py                     # LIFO Stack implementation
-│   ├── queue.py                     # FIFO Queue implementation
-│   ├── linked_list.py               # Singly Linked List implementation
-│   └── demo_data_structures.py      # Demonstration and testing script
-├── reports/
-│   ├── Part1_Selection_Algorithms_Report.md
-│   └── Part2_Data_Structures_Report.md
-└── README.md
+
+
 # Part 1: Selection Algorithms
 Algorithms Implemented
 
